@@ -9,17 +9,20 @@ about:
   image-width: 22em
   links:
     - text: Email
-      icon: envelope-at
+      icon: envelope-fill
       href: mailto:bmorande@uw.edu
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/brandon-morande/
+      target: _blank
     - text: GitHub
       icon: github 
       href: https://github.com/brandonmorande
+      target: _blank
     - text: CV
       icon: file-person-fill
       href: Morande_CV.pdf
+      target: _blank
   id: about
 ---
 
@@ -27,7 +30,7 @@ about:
 
 ## About Me
 
-As a graduate student at the University of Washington, I broadly research how people collectively experience, navigate, and resist housing inequality in the United States. I also study the intersections between social control and neighborhood change.
+As a graduate student at the [University of Washington](https://soc.washington.edu/people/brandon-morande){target="_blank"}, I broadly research how people collectively experience, navigate, and resist housing inequality in the United States. I also study the intersections between social control and neighborhood change.
 
 ## Education
 

@@ -13,7 +13,7 @@ about:
       href: mailto:bmorande@uw.edu
     - text: LinkedIn
       icon: linkedin
-      href: mailto:bmorande@uw.edu
+      href: https://www.linkedin.com/in/brandon-morande/
     - text: Google Scholar
       icon: google
       href: https://scholar.google.com/citations?hl=en&user=7jOtHR8AAAAJ

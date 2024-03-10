@@ -2,8 +2,11 @@
 title: "Brandon Morande"
 subtitle: Ph.D. Student | Sociology | University of Washington
 image: images/profile_pic.jpg
+toc: false
 about:
   template: solana
+  image-shape: round
+  image-width: 20em
   links:
     - text: Email
       icon: envelope-at
@@ -22,3 +25,6 @@ about:
       href: files/Morande_CV.pdf
   id: about
 ---
+::: {#about}
+My research broadly examines how people collectively experience and resist housing insecurity. I also study the intersections between social control and neighborhood change.
+:::

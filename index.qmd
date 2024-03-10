@@ -1,11 +1,24 @@
 ---
-title: "brandonmorande"
+title: "Brandon Morande"
+subtitle: Ph.D. Student | Sociology | University of Washington
+image: images/profile_pic.jpg
+about:
+  template: solana
+  links:
+    - text: Email
+      icon: envelope-at
+      href: mailto:bmorande@uw.edu
+    - text: LinkedIn
+      icon: linkedin
+      href: mailto:bmorande@uw.edu
+    - text: Google Scholar
+      icon: google
+      href: https://scholar.google.com/citations?hl=en&user=7jOtHR8AAAAJ
+    - text: GitHub
+      icon: github 
+      href: https://github.com/brandonmorande
+    - text: CV
+      icon: file-person-fill
+      href: files/Morande_CV.pdf
+  id: about
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

@@ -22,7 +22,7 @@ about:
       href: https://github.com/brandonmorande
     - text: CV
       icon: file-person-fill
-      href: files/Morande_CV.pdf
+      href: Morande_CV.pdf
   id: about
 ---
 ::: {#about}

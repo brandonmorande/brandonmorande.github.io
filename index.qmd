@@ -1,12 +1,12 @@
 ---
 title: "Brandon Morande"
-subtitle: Ph.D. Student | Sociology | University of Washington
+subtitle: Ph.D. Student in Sociology
 image: images/profile_pic.jpg
 toc: false
 about:
-  template: solana
+  template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: 22em
   links:
     - text: Email
       icon: envelope-at
@@ -14,9 +14,6 @@ about:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/brandon-morande/
-    - text: Google Scholar
-      icon: google
-      href: https://scholar.google.com/citations?hl=en&user=7jOtHR8AAAAJ
     - text: GitHub
       icon: github 
       href: https://github.com/brandonmorande
@@ -25,6 +22,17 @@ about:
       href: Morande_CV.pdf
   id: about
 ---
+
 ::: {#about}
-My research broadly examines how people collectively experience and resist housing insecurity. I also study the intersections between social control and neighborhood change.
+
+## About Me
+
+As a graduate student at the University of Washington, I broadly research how people collectively experience, navigate, and resist housing inequality in the United States. I also study the intersections between social control and neighborhood change.
+
+## Education
+
+**PhD, Sociology**, University of Washington \| Present
+
+**BA, Sociology & Latin American Studies**, *summa cum laude* \| 2019
+
 :::

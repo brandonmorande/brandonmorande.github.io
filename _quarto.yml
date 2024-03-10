@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "brandonmorande"
+  title: "Brandon Morande"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

@@ -12,6 +12,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+
     tools:
       - icon: envelope-fill
         href: mailto:bmorande@uw.edu

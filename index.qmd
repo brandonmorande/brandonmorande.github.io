@@ -29,8 +29,7 @@ about:
 ::: {#about}
 
 ## About Me
-
-As a graduate student at the [University of Washington](https://soc.washington.edu/people/brandon-morande){target="_blank"}, I broadly research how people collectively experience, navigate, and resist housing inequality in the United States. I also study the intersections between social control and neighborhood change.
+I am a graduate student in the Department of Sociology at the [University of Washington](https://soc.washington.edu/people/brandon-morande){target="_blank"}. My research broadly examines how people collectively experience, navigate, and resist housing inequality in the United States. I also study the intersections between social control and neighborhood change.
 
 ## Education
 

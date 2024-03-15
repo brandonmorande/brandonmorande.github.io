@@ -5,7 +5,7 @@ project:
 website:
   title: "Brandon Morande"
   page-footer: 
-    left: "Created with [Quarto](https://quarto.org/) • [Licensed via CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){target=_blank}" 
+    left: "Created with [Quarto](https://quarto.org/){target=_blank} • [Licensed via CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){target=_blank}" 
     center: "Copyright © 2024 Brandon Morande"
   navbar:
     search: true

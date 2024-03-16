@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -133,18 +132,18 @@ ul.task-list li input[type="checkbox"] {
 
 <p>I currently serve as a graduate teaching assistant at the University of Washington. Please find a complete history of my teaching experience below.</p>
 <hr>
-<section id="teaching-assistant" class="level4">
-<h4 class="anchored" data-anchor-id="teaching-assistant">Teaching Assistant</h4>
-<section id="university-of-washington" class="level5">
-<h5 class="anchored" data-anchor-id="university-of-washington">University of Washington</h5>
+<section id="teaching-assistant" class="level3">
+<h3 data-anchor-id="teaching-assistant"><strong>Teaching Assistant</strong></h3>
+<section id="university-of-washington" class="level4">
+<h4 data-anchor-id="university-of-washington">University of Washington</h4>
 <ul>
 <li><strong>SOC 316</strong> Introduction to Sociological Theory, Spring 2024</li>
 <li><strong>SOC 222</strong> Sociology of Sport, Winter 2024</li>
 <li><strong>SOC 110</strong> Survey of Sociology, Fall 2023</li>
 </ul>
 </section>
-<section id="bowdoin-college" class="level5">
-<h5 class="anchored" data-anchor-id="bowdoin-college">Bowdoin College</h5>
+<section id="bowdoin-college" class="level4">
+<h4 data-anchor-id="bowdoin-college">Bowdoin College</h4>
 <ul>
 <li><strong>HISP 1102</strong> Elementary Spanish II, Spring 2019</li>
 </ul>
@@ -289,13 +288,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

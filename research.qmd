@@ -16,13 +16,13 @@ anchor-sections: false
     <p>
     </details>
 
-- **Collaboration with Dr. Zack Almquist**, Department of Sociology, University of Washington | *Present*
+- **Collaboration with Dr. Zack Almquist and Dr. Amy Hagopian**, University of Washington | *Present*
 
     <details><summary>
     "Understanding the Displacement of People Experiencing Homelessness"
     </summary>
     <p>
-    This study will employ spatial and temporal data to model the relational event nature of an encampment clearance in Seattle, WA.
+    This study employs spatial and temporal data to model the relational event nature of encampment clearances in Seattle, WA.
     <p>
     </details>
 

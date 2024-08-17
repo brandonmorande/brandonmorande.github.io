@@ -1,0 +1,75 @@
+---
+title: "Research"
+toc: false
+anchor-sections: false
+---
+
+### **Current Projects**
+
+- **Master's Thesis**, Department of Sociology, University of Washington | *Present*
+
+    <details><summary>
+    "Policing Homelessness: Enforcing Neighborhood Change"
+    </summary>
+    <p>
+    This paper will utilize spatial analysis to examine the relationship between neighborhood dynamics and policing homelessness in Seattle, WA.
+    <p>
+    </details>
+
+- **Collaboration with Dr. Zack Almquist and Dr. Amy Hagopian**, University of Washington | *Present*
+
+    <details><summary>
+    "Understanding the Displacement of People Experiencing Homelessness"
+    </summary>
+    <p>
+    This study employs spatial and temporal data to model the relational event nature of encampment clearances in Seattle, WA.
+    <p>
+    </details>
+
+### **Past Studies**
+
+- **Honors Project**, Department of Sociology, Bowdoin College | *2018-2019*
+
+    <details><summary>
+    "Salud Callejera: Mobilizing Cuidado at the Margins of Neoliberalism; Reimagining Care for People Experiencing Homelessness in Buenos Aires"
+    </summary>
+    <p>
+    Based in Buenos Aires, Argentina, my [Honors Thesis](https://digitalcommons.bowdoin.edu/honorsprojects/113/){target="_blank"} analyzes care for people experiencing homelessness as a site for both reproducing and resisting neoliberal governance. This study finds that municipal services and the public health system render individuals responsible for housing insecurity by medicalizing poverty as a symptom of psychosocial illness. As an alternative, civil society networks reimagine care as a collective right and site of political mobilization. In addition to field observations, I draw upon interviews with people experiencing or at risk of homelessness, members of civil society organizations, public health providers, and municipal social workers.
+    <p>
+    </details>
+
+- **Independent Study Project**, School for International Training | *2018*
+
+    <details><summary>
+    "Salud callejera: La Atención Primaria de Salud en los márgenes de la Ciudad de Buenos Aires: Redes de cuidado de una organización de la Sociedad Civil para personas en situación de calle"
+    </summary>
+    <p>
+    This [study](https://digitalcollections.sit.edu/isp_collection/2769/){target="_blank"} examines how civil society networks facilitate access to primary care for people experiencing homelessness in Buenos Aires, Argentina. Drawing upon interviews and field observations, I also explore how care differs across state services, civil society networks, and peer groups.
+    <p>
+    </details>
+
+### **Professional Experience**
+
+- **Independent Researcher**, Washington State Center for Court Research \| *Present*
+
+    <details><summary>
+    "Legal Financial Obligations in Washington's Courts
+    </summary>
+    <p>
+    I'm helping draft a legislative report examining legal financial obligations across Washington courts. The project also involves quantitative and text data analysis, stakeholder engagement, and writing for public audiences.
+    <p>
+    </details>
+
+- **Thomas J. Watson Fellow**, Watson Foundation \| *2019-2020*
+
+    <details><summary>
+    "The Street Retold: Stories of Homeless Community Empowerment"
+    </summary>
+    <p>
+    This international [project](https://fellows.watson.foundation/51/fellows/brandon-morande.html){target="_blank"} explores how peer-based initiatives empower people confronting homelessness to share experiences, develop solidarity, and help one another survive the streets. I also examine how these communities occupy often inaccessible spaces to change perceptions of homelessness. I documented my observations and interviewees' stories on Instagram, [\@thestreetretold](https://www.instagram.com/thestreetretold/){target="_blank"}.
+    <p>
+    </details>
+
+---
+
+For more information regarding my undergraduate research and Watson Fellowship, please read this [article](https://www.bowdoin.edu/news/2019/04/after-reaching-out-to-the-homeless-a-senior-discovers-how-they-help-themselves.html){target="_blank"} by Bowdoin College.

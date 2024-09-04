@@ -6,7 +6,8 @@ anchor-sections: false
 
 ### **Current Projects**
 
--   **Master's Thesis**, Department of Sociology, University of Washington \| *Present*
+-   **Master's Thesis**, Department of Sociology, University of Washington \| *Present*\
+Committee: Dr. Zack Almquist and Dr. Kyle Crowder
 
     <details>
 
@@ -20,7 +21,8 @@ anchor-sections: false
 
     </details>
 
--   **Collaboration with Dr. Zack Almquist and Dr. Amy Hagopian**, University of Washington \| *Present*
+-   **Graduate Research Student Assistant**, University of Washington \| *Present*\
+Dr. Zack Almquist and Dr. Amy Hagopian
 
     <details>
 
@@ -29,6 +31,21 @@ anchor-sections: false
     <p>
 
     This study employs spatial and temporal data to model the relational event nature of encampment clearances in Seattle, WA.
+
+    <p>
+
+    </details>
+
+-   **Research Assistant**, Department of Sociology, University of Washington \| *Present*\
+Dr. Kyle Crowder and Dr. Charles Lanfear
+
+    <details>
+
+    <summary>"Patterns of Social Disorder on Public Transit"</summary>
+
+    <p>
+
+    This project will use systematic social observation and urban-ecological mapping to assess social disorder on Seattle public transit.
 
     <p>
 

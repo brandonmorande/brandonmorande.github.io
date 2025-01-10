@@ -30,9 +30,9 @@ about:
 ::: {#about}
 ## About Me
 
-I'm a graduate student in the Department of Sociology at the [University of Washington](https://soc.washington.edu/people/brandon-morande){target="_blank"}. My research broadly examines how people experience, navigate, and resist housing inequality in the United States. Using spatiotemporal methods, I specifically study the intersections between social control, punishment, homelessness, and neighborhood change.
+I'm a graduate student in the Department of Sociology at the [University of Washington](https://soc.washington.edu/people/brandon-morande){target="_blank"}. My research broadly examines the relationship between punishment and housing inequality in the United States. Using spatiotemporal methods, I specifically study the intersections between public space, social control, and neighborhood change.
 
-I previously worked for a street outreach program in North Carolina, helping people sleeping unsheltered access permanent housing and avoid criminal justice involvement. Prior to this position, I explored peer-based initiatives addressing homelessness around the globe.
+I previously worked for a street outreach program in North Carolina, helping people sleeping unsheltered access permanent housing and avoid criminal legal involvement. Prior to this position, I explored peer-based initiatives addressing homelessness around the globe.
 
 ## Education
 

@@ -14,7 +14,7 @@ about:
       href: mailto:bmorande@uw.edu
     - text: LinkedIn
       icon: linkedin
-      href: https://www.linkedin.com/in/brandon-morande/
+      href: https://www.linkedin.com/in/brandon-morande/{target="_blank"}
       target: _blank
     - text: GitHub
       icon: github 

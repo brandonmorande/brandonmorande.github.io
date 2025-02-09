@@ -15,7 +15,7 @@ Committee: Dr. Zack Almquist and Dr. Kyle Crowder
 
     <p>
 
-    This paper will utilize spatial analysis to examine the relationship between neighborhood dynamics and policing homelessness in Seattle, WA.
+    This paper examines the relationship between neighborhood dynamics and policing homelessness in Seattle, WA.
 
     <p>
 
@@ -26,11 +26,11 @@ Dr. Zack Almquist and Dr. Amy Hagopian
 
     <details>
 
-    <summary>"Understanding the Displacement of People Experiencing Homelessness"</summary>
+    <summary>"Forced Displacement of People Experiencing Homelessness"</summary>
 
     <p>
 
-    This study employs spatial and temporal data to model the relational event nature of encampment clearances in Seattle, WA.
+    This study evaluates housing outcomes and movement patterns following encampment clearances in Seattle, WA. I presented this work at the *Western Society of Criminology* 2025 Conference [[poster](docs/research/WSC_2025_Poster_A0.pdf){target="_blank"}].
 
     <p>
 
@@ -45,7 +45,22 @@ Dr. Kyle Crowder and Dr. Charles Lanfear
 
     <p>
 
-    This project will use systematic social observation and urban-ecological mapping to assess social disorder on Seattle public transit.
+    In partnership with Sound Transit, this project uses systematic observation and urban-ecological mapping to assess social disorder on Seattle public transportation.
+
+    <p>
+
+    </details>
+    
+-   **Student Researcher**, Department of Sociology, University of Washington \| *Present*\
+Dr. Nathalie Williams and Dr. Jerald Herting
+
+    <details>
+
+    <summary>"Sound Data Survey Project"</summary>
+
+    <p>
+
+    The research team aims to pioneer a [longitudinal survey](https://sites.uw.edu/pugetsounddata/){target="_blank"} of the unhoused population in the Puget Sound. I have helped facilitate focus groups with unsheltered participants, as well as analyze data from a pilot survey.
 
     <p>
 
@@ -91,7 +106,7 @@ Dr. Kyle Crowder and Dr. Charles Lanfear
 
     <p>
 
-    I helped draft a legislative report examining legal financial obligations across Washington courts. The project involved quantitative and text data analysis, stakeholder engagement, and writing for public audiences.
+    I helped write a [legislative report](https://www.courts.wa.gov/subsite/wsccr/docs/LFO%20WSCCR%20Report%20-%20Published.pdf){target="_blank"} examining legal financial obligations across Washington courts. The project involved quantitative and text data analysis, stakeholder engagement, and writing for public audiences.
 
     <p>
 

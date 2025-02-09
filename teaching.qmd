@@ -10,10 +10,25 @@ I work as a graduate teaching assistant at the University of Washington. Please 
 
 #### University of Washington
 
--   **SOC 403** Applied Community Research Program, Winter 2025
--   **SOC 316** Introduction to Sociological Theory, Spring 2024
--   **SOC 222** Sociology of Sport, Winter 2024
--   **SOC 110** Survey of Sociology, Fall 2023
+-   **SOC 403** Applied Community Research Program, Dr. Anne Tseng, Winter 2025
+
+    <details>
+
+    <summary>"Description and Resources"</summary>
+
+    <p>
+
+    Students collected data on neighborhood and station characteristics that may contribute to perceived and measurable disorder on urban light rail. They piloted methods for other UW researchers and myself to employ in a broader project with Sound Transit.
+    
+    In addition to helping facilitate the course, I led a workshop on gathering and analyzing quantitative data from web searches. The session introduced undergraduates to building and subsetting spatial datasets, downloading Census data, and creating visuals in *RStudio*. Feel free to use, modify, and share these [workshop resources](docs/teaching/SOC403/data_workshop.zip){target="_blank"} with attribution!
+
+    <p>
+
+    </details>
+    
+-   **SOC 316** Introduction to Sociological Theory, Dr. Cristina Lacomba, Spring 2024
+-   **SOC 222** Sociology of Sport, Dr. Kyle Crowder, Winter 2024
+-   **SOC 110** Survey of Sociology, Dr. Cristina Lacomba, Fall 2023
 
 #### Bowdoin College
 

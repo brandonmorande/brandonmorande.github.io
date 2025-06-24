@@ -6,7 +6,7 @@ anchor-sections: false
 
 ### **Current Projects**
 
--   **Master's Thesis**, Department of Sociology, University of Washington \| *Present*\
+-   **Master's Thesis**, Department of Sociology, University of Washington \
 Committee: Dr. Zack Almquist and Dr. Kyle Crowder
 
     <details>
@@ -15,13 +15,13 @@ Committee: Dr. Zack Almquist and Dr. Kyle Crowder
 
     <p>
 
-    This paper examines the relationship between neighborhood dynamics and policing homelessness in Seattle, WA.
+    This paper examines the relationship between neighborhood characteristics (e.g., economic expansion) and policing homelessness in Seattle, WA. I will present this paper at the following 2025 conferences: International Society for Justice Research; American Sociological Association; and American Society of Criminology.
 
     <p>
 
     </details>
 
--   **Graduate Research Student Assistant**, University of Washington \| *Present*\
+-   **Graduate Research Student Assistant**, University of Washington \
 Dr. Zack Almquist and Dr. Amy Hagopian
 
     <details>
@@ -36,7 +36,7 @@ Dr. Zack Almquist and Dr. Amy Hagopian
 
     </details>
 
--   **Research Assistant**, Department of Sociology, University of Washington \| *Present*\
+-   **Research Assistant**, Department of Sociology, University of Washington \
 Dr. Kyle Crowder and Dr. Charles Lanfear
 
     <details>
@@ -51,7 +51,22 @@ Dr. Kyle Crowder and Dr. Charles Lanfear
 
     </details>
     
--   **Student Researcher**, Department of Sociology, University of Washington \| *Present*\
+-   **Research Assistant**, Department of Sociology, University of Washington \
+Dr. Drew Messamore
+
+    <details>
+
+    <summary>"Puget Sound Housing System Study"</summary>
+
+    <p>
+
+    I am asssisting with compiling property and business data on rental housing ownership in the Puget Sound.
+
+    <p>
+
+    </details>
+
+-   **Student Researcher**, Department of Sociology, University of Washington \
 Dr. Nathalie Williams and Dr. Jerald Herting
 
     <details>

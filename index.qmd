@@ -1,7 +1,7 @@
 ---
 title: "Brandon Morande"
 subtitle: Ph.D. Student in Sociology
-image: images/profile_pic.jpg
+image: images/profile_pic.png
 toc: false
 anchor-sections: false
 about:
